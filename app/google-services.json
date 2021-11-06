@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851760903881",
+    "firebase_url": "https://cs450-synesthesia.firebaseio.com",
+    "project_id": "cs450-synesthesia",
+    "storage_bucket": "cs450-synesthesia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851760903881:android:04f011f33aa6d735",
+        "android_client_info": {
+          "package_name": "com.example.mtvan15.ui_sye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851760903881-j33fda8ta00gmn3kpekqlclul4h6rl0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mtvan15.ui_sye",
+            "certificate_hash": "cbfb913a52e055bc17001fa7dc5742df6142fc33"
+          }
+        },
+        {
+          "client_id": "851760903881-criukiib9hsb194hlfearse38hndfhc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7foYIyCgQlV0_7O2O2Ico3Z8qT2p5ig8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851760903881-criukiib9hsb194hlfearse38hndfhc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

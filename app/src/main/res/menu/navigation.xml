@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_20px"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/sensorDraw"
+        android:icon="@drawable/ic_baseline_settings_remote_24px"
+        android:title="Sensor" />
+
+    <item
+        android:id="@+id/touchDraw"
+        android:icon="@drawable/ic_baseline_touch_app_24px"
+        android:title="Touch" />
+
+    <item
+        android:id="@+id/clearButton"
+        android:icon="@drawable/ic_baseline_highlight_off_24px"
+        android:title="Clear" />
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_baseline_save_alt_24px"
+        android:title="Save" />
+
+</menu>
