@@ -1,4 +1,4 @@
-### Synesthesia Applcation (Android)
+### Synesthesia Application (Android)
 This application visualizes music and sounds to help the user interact with their environment. This was completed as a Senior Honor's Project at St. Lawrence University.
 
 More information can be found using the link below:
